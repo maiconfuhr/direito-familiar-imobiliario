@@ -1,5 +1,14 @@
 # direito-familiar-imobiliario
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Made for Claude Code](https://img.shields.io/badge/Made_for-Claude_Code-d97757)](https://docs.claude.com/en/docs/claude-code)
+[![Skill](https://img.shields.io/badge/Type-Skill-6a9bcc)](https://docs.claude.com/en/docs/agents/skills)
+[![Language](https://img.shields.io/badge/Language-pt--BR-009b3a)](#)
+[![Jurisdiction](https://img.shields.io/badge/Jurisdição-🇧🇷_Brasil-ffdf00)](#)
+[![Legislation](https://img.shields.io/badge/Legislação-Maio%2F2026-blue)](references/legislacao.md)
+[![GitHub last commit](https://img.shields.io/github/last-commit/maiconfuhr/direito-familiar-imobiliario)](https://github.com/maiconfuhr/direito-familiar-imobiliario/commits/main)
+[![GitHub stars](https://img.shields.io/github/stars/maiconfuhr/direito-familiar-imobiliario?style=social)](https://github.com/maiconfuhr/direito-familiar-imobiliario/stargazers)
+
 > Skill para Claude Code que orienta pessoas leigas em casos brasileiros de **direito imobiliário** (regularização, usucapião, REURB, retificação de matrícula) e **direito de família e sucessões** (divórcio, partilha, meação, inventário, herança, ITCMD).
 
 Legislação atualizada até **maio/2026** — inclui Resolução CNJ 571/2024 (inventário e divórcio extrajudicial com menores e testamento), Provimento CNJ 149/2023 (Código Nacional de Normas), LC 227/2026 (ITCMD progressivo), Lei 14.711/2023 (Marco Legal das Garantias), Lei 14.620/2023 (REURB/MCMV) e Lei 14.382/2022 (SERP).
